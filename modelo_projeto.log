@@ -1,34 +1,34 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.7)  8 MAR 2019 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.13)  13 MAR 2019 23:02
 entering extended mode
 **./modelo_projeto.tex
 (modelo_projeto.tex
 LaTeX2e <2018-12-01>
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scra
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scra
 rtcl.cls"
 Document Class: scrartcl 2019/02/01 v3.26b KOMA-Script document class (article)
 
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrk
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrk
 base.sty"
 Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrb
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrb
 ase.sty"
 Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
  basics and keyval usage)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
 sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrl
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrl
 file.sty"
 Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
 )))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\tocb
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\tocb
 asic.sty"
 Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
@@ -46,12 +46,12 @@ Class scrartcl Info: You've used standard option `onecolumn'.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2162.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrs
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrs
 ize12pt.clo"
 File: scrsize12pt.clo 2019/02/01 v3.26b KOMA-Script font size class option (12p
 t)
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\type
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\type
 area.sty"
 Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
 \ta@bcor=\skip42
@@ -136,15 +136,15 @@ Package tocbasic Info: omitting babel extension for `lot'
 Class scrartcl Info: Redefining `\numberline' on input line 5957.
 \bibindent=\dimen102
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.st
 y"
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
 ty"
-Package: expl3 2019-02-15 L3 programming layer (loader) 
+Package: expl3 2019-03-05 L3 programming layer (loader) 
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
 ode.tex"
-Package: expl3 2019-02-15 L3 programming layer (code)
+Package: expl3 2019-03-05 L3 programming layer (code)
 \c_max_int=\count89
 \l_tmpa_int=\count90
 \l_tmpb_int=\count91
@@ -275,49 +275,49 @@ Package: expl3 2019-02-15 L3 programming layer (code)
 \l_tmpb_coffin=\box40
 \g_tmpa_coffin=\box41
 \g_tmpb_coffin=\box42
+\l__coffin_bounding_shift_dim=\dimen125
+\l__coffin_left_corner_dim=\dimen126
+\l__coffin_right_corner_dim=\dimen127
+\l__coffin_bottom_corner_dim=\dimen128
+\l__coffin_top_corner_dim=\dimen129
+\l__coffin_scaled_total_height_dim=\dimen130
+\l__coffin_scaled_width_dim=\dimen131
 \c__coffin_empty_coffin=\box43
 \l__coffin_display_coffin=\box44
 \l__coffin_display_coord_coffin=\box45
 \l__coffin_display_pole_coffin=\box46
-\l__coffin_display_offset_dim=\dimen125
-\l__coffin_display_x_dim=\dimen126
-\l__coffin_display_y_dim=\dimen127
+\l__coffin_display_offset_dim=\dimen132
+\l__coffin_display_x_dim=\dimen133
+\l__coffin_display_y_dim=\dimen134
 \g__file_internal_ior=\read1
-\l__coffin_bounding_shift_dim=\dimen128
-\l__coffin_left_corner_dim=\dimen129
-\l__coffin_right_corner_dim=\dimen130
-\l__coffin_bottom_corner_dim=\dimen131
-\l__coffin_top_corner_dim=\dimen132
-\l__coffin_scaled_total_height_dim=\dimen133
-\l__coffin_scaled_width_dim=\dimen134
 \l__seq_internal_a_int=\count171
 \l__seq_internal_b_int=\count172
+\c__deprecation_minus_one=\count173
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmo
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmo
 de.def"
-File: l3pdfmode.def 2019-02-15 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count173
+File: l3pdfmode.def 2019-03-05 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count174
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
 e\xparse.sty"
-Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count174
-\g__xparse_grabber_int=\count175
-\l__xparse_m_args_int=\count176
-\l__xparse_mandatory_args_int=\count177
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count175
+\g__xparse_grabber_int=\count176
+\l__xparse_m_args_int=\count177
 \l__xparse_v_nesting_int=\count178
 )
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.lt
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.lt
 d.tex"
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
 y"
 Package: babel 2018/11/13 3.27 The Babel package
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
 ef"
 File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
@@ -325,29 +325,29 @@ File: switch.def 2018/11/13 3.27 Babel switching mechanism
 * Local config file bblopts.cfg used
 *
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
 g"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portuges\p
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portuges\p
 ortuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
 f"
 File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count179
 \U@D=\dimen135
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
 .def")
 \bbl@dirlevel=\count180
 )
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
 ype.sty"
 Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
 \MT@toks=\toks15
@@ -357,7 +357,7 @@ LaTeX Info: Redefining \textls on input line 790.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
 \MT@listname@count=\count182
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
 ype-pdftex.def"
 File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
 
@@ -367,33 +367,33 @@ LaTeX Info: Redefining \lslig on input line 914.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
 ype.cfg"
 File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
 sty"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip64
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
 sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
 ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen137
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
 ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen138
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
 ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
@@ -435,7 +435,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
 s.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -443,7 +443,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
 y"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks21
@@ -456,36 +456,36 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip69
 \dth@everypar=\toks26
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
 x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
 s.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
 y"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
 phics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
 tex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen146
 \Gin@req@width=\dimen147
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
 y"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
 or.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -500,15 +500,15 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\svgnam.de
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\svgnam.de
 f"
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
 sty"
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
 .sty"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
@@ -524,53 +524,53 @@ Package caption Info: KOMA-Script document class.
 \c@caption@flags=\count195
 \c@ContinuedFloat=\count196
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
 f.sty"
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
 f-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
 rerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
 sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
 inekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
 ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
 ns.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
 keys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
 mds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
 tex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
 xcmds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
 .sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
@@ -586,7 +586,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.st
 y"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count197
@@ -603,7 +603,7 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \sf@top=\skip73
 \sf@bottom=\skip74
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
 s.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen156
@@ -624,13 +624,13 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count273
 \@thisrulewidth=\dimen168
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
 File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -703,22 +703,22 @@ File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+266A (decimal 9834)
    defining Unicode char U+FEFF (decimal 65279)
 )))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
 y"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks27
 \inpenc@posthook=\toks28
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
 y.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
 x.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
 x.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
@@ -735,31 +735,31 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen176
 \Gm@dimlist=\toks29
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
 y.cfg"))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetim
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetim
 e.sty"
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
 x.sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count277
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcoun
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcoun
 t.sty"
 Package: fmtcount 2017/12/24 v3.05
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
 sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
 l.tex"
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
 ls.tex"
 \XKV@toks=\toks30
 \XKV@tempa@toks=\toks31
@@ -767,11 +767,11 @@ ls.tex"
 \XKV@depth=\count278
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefi
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefi
 x.sty"
 Package: fcprefix 2012/09/28
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumpa
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumpa
 rser.sty"
 Package: fcnumparser 2017/06/15
 \fc@digit@counter=\count279
@@ -779,7 +779,7 @@ Package: fcnumparser 2017/06/15
 \c@padzeroesN=\count280
 \fc@tmpcatcode=\count281
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-port
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-port
 uges.def"
 File: fc-portuges.def 2017/12/26
 )
@@ -791,7 +791,7 @@ File: fc-portuges.def 2017/12/26
 \@DT@loopN=\count287
 \@DT@X=\count288
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetim
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetim
 e-defaults.sty"
 Package: datetime-defaults 2013/09/10
 )
@@ -816,7 +816,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks32
 \dt@b=\toks33
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.
 sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
@@ -836,7 +836,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              package `fancyhdr' on input line 48.
 
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
 r.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
@@ -850,15 +850,15 @@ s
 \f@nch@O@olf=\skip82
 \f@nch@O@orf=\skip83
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\lastpag
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\lastpag
 e.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrin
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrin
 e.sty"
 File: lettrine.sty 2018-08-28 v2.21 (Daniel Flipo)
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\minifp.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\minifp.
 sty"
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 -based programing language.
@@ -892,9 +892,9 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 
 Loading lettrine.cfg
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrin
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrin
 e.cfg"))
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titling\titling.
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titling\titling.
 sty"
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip84
@@ -928,12 +928,12 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr
 .cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
 -pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count309
@@ -991,7 +991,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 122.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 123.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd
 "
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -1016,7 +1016,7 @@ Package pdftex.def Info: utfpr.jpeg  used on input line 141.
  [1
 
 
-{C:/Users/marcelo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr.j
+{C:/Users/Marcelo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr.j
 peg>]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
@@ -1025,7 +1025,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 147.
 
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1044,21 +1044,21 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 14
 (modelo_projeto.lof
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
 "
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa
 .cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-("C:\Users\marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb
+("C:\Users\Marcelo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb
 .cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
@@ -1112,7 +1112,7 @@ File: fig1.png Graphic file (type png)
 Package pdftex.def Info: fig1.png  used on input line 9.
 (pdftex.def)             Requested size: 121.65234pt x 84.715pt.
 ) [6 <./fig1.png>]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 250--255
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 241--246
 []\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
 /, https://trello.com/, http://www.ganttproject.biz/,
  []
@@ -1128,57 +1128,53 @@ ne 1.
 
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 304.
- (tab2.tex
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [8]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 295.
+ [8] (tab2.tex)
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 334.
+Package pdftex.def Info: fig1.png  used on input line 325.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
 <fig2.png, id=45, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 342.
+Package pdftex.def Info: fig2.png  used on input line 333.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
 <fig3.jpg, id=46, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
 <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg  used on input line 351.
+Package pdftex.def Info: fig3.jpg  used on input line 342.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
  
 AED: lastpage setting LastPage
 [9] [10] [11 <./fig2.png>] [12 <./fig3.jpg>] (modelo_projeto.aux) ) 
 Here is how much of TeX's memory you used:
- 21062 strings out of 492946
- 381372 string characters out of 3125379
- 685331 words of memory out of 3000000
- 24613 multiletter control sequences out of 15000+200000
- 555734 words of font info for 110 fonts, out of 3000000 for 9000
+ 21144 strings out of 492946
+ 383133 string characters out of 3125378
+ 681474 words of memory out of 3000000
+ 24685 multiletter control sequences out of 15000+200000
+ 555979 words of font info for 115 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,9095b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/ma
-rcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/m
+{C:/Users/Ma
+rcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/M
 arcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.
-pfb><C:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb><C:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/marcelo/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/marcelo/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/marce
+pfb><C:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Marcelo/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Marcelo/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Marce
 lo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb>
-<C:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmssbx10.pfb><C:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marcelo/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/marcelo/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/marcelo
+<C:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmssbx10.pfb><C:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Marcelo/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Marcelo/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Marcelo
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C
-:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb
-8a.pfb><C:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helv
-etic/uhvbo8a.pfb><C:/Users/marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helv
+etic/uhvbo8a.pfb><C:/Users/Marcelo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on modelo_projeto.pdf (12 pages, 1942191 bytes).
+Output written on modelo_projeto.pdf (12 pages, 1943065 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
