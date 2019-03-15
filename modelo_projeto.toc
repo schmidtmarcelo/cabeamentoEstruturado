@@ -18,11 +18,11 @@
 \contentsline {section}{\numberline {8}Plano de manuten\IeC {\c c}\IeC {\~a}o}{7}% 
 \contentsline {subsection}{\numberline {8.1}Plano de expans\IeC {\~a}o}{7}% 
 \contentsline {section}{\numberline {9}Risco}{7}% 
-\contentsline {section}{\numberline {10}Or\IeC {\c c}amento}{7}% 
+\contentsline {section}{\numberline {10}Or\IeC {\c c}amento}{8}% 
 \contentsline {section}{\numberline {11}Recomenda\IeC {\c c}\IeC {\~o}es}{8}% 
 \contentsline {section}{\numberline {12}Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{8}% 
 \contentsline {section}{\numberline {13}Elementos textuais - Alguns exemplos}{8}% 
 \contentsline {subsection}{\numberline {13.1}Colocar elementos em itens}{8}% 
-\contentsline {subsubsection}{\numberline {13.1.1}Uma subse\IeC {\c c}\IeC {\~a}o de terceiro nivel}{8}% 
+\contentsline {subsubsection}{\numberline {13.1.1}Uma subse\IeC {\c c}\IeC {\~a}o de terceiro nivel}{9}% 
 \contentsline {subsection}{\numberline {13.2}Tabelas}{9}% 
 \contentsline {subsection}{\numberline {13.3}Figuras}{9}% 
