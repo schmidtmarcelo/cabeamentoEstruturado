@@ -60,7 +60,7 @@
 %% ====================================
 %% ====================================
 
-\lfoot{\footnotesize \texttt{Cabeamento estruturado} \textbullet ~Modelo de projeto}
+\lfoot{\footnotesize \texttt{Cabeamento estruturado} \textbullet ~UBS}
 
 
 \cfoot{}
@@ -141,17 +141,12 @@
 	\includegraphics{utfpr}
 \end{figure}
 
-\vspace{3cm}
+\vspace{2cm}
 \centerline{\textit{\textbf{\today}}}
 
 \clearpage
     \renewcommand*\listfigurename{Lista de figuras}
 \listoffigures
-
-\renewcommand*\listtablename{Lista de tabelas}
-\listoftables
-
-
 
 
 \clearpage
@@ -166,18 +161,15 @@
 %% ====================================
 \section{Introdução}
 A Unidade Básica de Saúde(UBS) foi construída recentemente, então, no momento não existe nenhuma instalação de rede no local. 
-Esse projeto visa estruturar essa UBS com cabos de rede cat6, rack de rede, caixas aparentes(especificar).
-Ao final da estruturação a rede deverá ser utilizada por aproximadamente 15 computadores, 10 smartphones, 6 tablets e um cartão-ponto. Uma expansão futura é possível, mas a mesma não deve ultrapassar 40 computadores.
+Esse projeto visa estruturar essa UBS com rack de rede e demais equipamentos passivos e ativos de categoria 6.
+Ao final da estruturação a rede deverá ser utilizada por aproximadamente 20 computadores; 5 impressoras de rede e um cartão-ponto localizados nas diversas salas do prédio. Uma expansão futura é possível até número máximo de 41 dispositivos sem precisar acrescentar nada a estrutura, ultrapassando este número será necessário a compra de mais equipamentos como switch; conectores etc.
 
 \subsection{Benefícios}
-Existem vários outros lugares com estruturas já montadas na Prefeitura de Pato Bragado que não contaram com um projeto em seu início, ocasionando em vários problemas de rede, portanto, o principal benefício desse projeto será antecipar esses problemas e criar um rede organizada e estruturada.
+Existem vários outros lugares com estruturas já montadas na Prefeitura de Pato Bragado que não contaram com um projeto em seu início, ocasionando vários problemas de rede, portanto, o principal benefício desse projeto será evitar tais problemas e criar um rede organizada e estruturada de categoria 6. Sendo uma rede gigabit e toda estruturada, comportará muito bem todos os equipamentos e sistemas que serão utilizados, agilizando assim o atendimento da UBS.
 
 \subsection{Organizações Envolvidas}
-Coloque o nome de todas as organizações envolvidas. Se for um projeto real, identifique quais as responsabilidades de cada uma das organizações. É comum que em um projeto de redes (cabeamento), temos várias organizações, sendo que cada uma delas com uma determinada responsabilidade.
-
-Sugestão: crie uma tabela contento a relação delas.
-
-
+Para tal implantação do cabeamento estruturado será necessário o envolvimento da empresa terceirizada que detém contrato de link de internet e Vlan por fibra óptica que realizará a instalação da mesma na sala onde ficarão alojados todos os equipamentos de rede.
+Para todo o restante, desde montagem de rack, lançamento dos cabos, crimpagem e demais instalações e configurações estarão envolvidos os três coloboradores que trabalham no Departamento de Tecnologias e Sistemas de Informação da Prefeitura Municipal. Os mesmos serão responsáveis no futuro pela manutenção da rede neste local. 
 
 %\section{Estado atual}
 %Aprente o estado atual da rede. Caso não %tenha rede, desconsiderar esta seção.
@@ -190,161 +182,106 @@ Sugestão: crie uma tabela contento a relação delas.
 %\end{itemize}
 
 \section{Requisitos}
-Deverá conter uma conexão wireless, para uso do tablet das Agentes Comunitárias de Saúde e dos celulares que serão usados para trabalho. 
+\begin{itemize}
+\item Todos os equipamentos deverão ser de padrão Gigabit Cat6.
+\item Deverá ter um rack de piso para acomodar todos os equipamentos necessários e a entrada dos cabos de rede.
+\item Deverá ter um nobreak com autonomia de 4 horas para atender todos os equipamentos instalados no rack.
+\item O rack com todos os equipamentos e cabeamento deverão ficar em uma sala refrigerado com ar condicionado separada de todas as demais.	
+\end{itemize}
 
 \section{Usuários e Aplicativos}
-Atualmente nenhum usuário está utilizando os recursos de rede, pois, o prédio é uma construção nova. Futuramente serão construídas novas instalações que deverão utilizar os mesmos recursos de rede, o tamanho da expansão hoje é impossível mensurar, mas não deverá passar de 70 conexões simultâneas ao todo.
  
 \subsection{Usuários}
-Serão aproximadamente vinte e cinco usuários, que utilizarão na rede equipamentos como: computadores, notebooks, tablets, celulares, impressoras e cartão-ponto.
+Serão aproximadamente vinte usuários, que utilizarão na rede equipamentos como: computadores; notebooks; impressoras e cartão-ponto.
 
 \subsection{Aplicativos}
-Os aplicativos que serão utilizados com maior frequência são: O sistema geral de atendimento da Unidade Básica de Saúde que necessita um quantidade mínima de velocidade de internet para perfeito funcionamento(sistema web). Já o cartão ponto, o sistema de compras e as impressoras necessitam apenas de rede para funcionamento.
+Os aplicativos que serão utilizados com maior frequência são: O sistema geral de atendimento da Unidade Básica de Saúde que necessita um quantidade mínima de velocidade de internet para perfeito funcionamento (sistema web). Já o cartão ponto, o sistema de compras e as impressoras necessitam apenas de rede para seu funcionamento.
 
 \section{Estrutura predial existente}
-A sala que foi escolhida para alocar o rack e os demais equipamentos, foi aberto uma passagem na lage, com tamanho suficiente para passar até mais cabos do que o necessário. Quanto a passagem de cabos nas demais salas, existe espaço suficiente junto com os cabos de energia. Caso alguém deseje que o computador seja distante do ponto de energia, a instalação será feita com canaletas aparentes, mas os pontos foram colocados em locais estratégicos e isso não deverá acontecer.
+O prédio é novo e recentemente construído, em seu projeto já foi previsto a rede lógica, deste modo, em todas as salas já estão instaladas caixas embutidas nas paredes interligadas com eletro dutos até na sala central onde ficará o rack. Nesta, os eletrodutos descem por um buraco na lage. Os pontos de rede irão variar a distância de 8 até 40 metros. A estrutura básica já está pronta faltando apenas a montagem e instalação dos equipamentos e cabos. Todos os pontos serão interligados do patch panel ao seu respectivo mutoa/wallplate, sendo utilizados patch cords para ligação entre patch panel e switch e entre wallplate/mutoa e dispositivos. 
 
 \section{Planta Lógica - Elementos estruturados}
 
 \subsection{Estado atual}
-Deve ter a planta atual, se for o caso
+Segue abaixo planta baixa da UBS (Unidade Básica de Saúde) que encontra-se recentemente construída e com todos os eletrodutos prontos para lançamento dos cabos e instalação dos esquipamentos. 
+ 
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{fig1}
+	\caption{Planta baixa da UBS}
+	\label{fig1}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{fig2}
+	\caption{Cabeamento e pontos de rede}
+	\label{fig2}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{fig3}
+	\caption{Diagrama do Rack}
+	\label{fig3}
+\end{figure}
 
 \subsection{Topologia}
-Proposta futura, proposta após implantação.
-Deve conter o diagrama da rede. Atente-se a redundância  e ligações truncadas.
-Deve explicar todos termos e componentes utilizados nestas plantas. Por exemplo: entrance facility, work area, horizontal cabling, etc..
+Com base na figura 2, aprenseta-se o cabeamento horizontal que interligará os wallplates até o patch panel, sendo que a maioria dos pontos terá um cabo e outros passarão 2 cabos. Será utilizado um rack de piso 42U, foi escolhido este tamanho de rack já prevendo futuras expansões tanto de cabeamento quanto de instalação de servidores e outros equipamentos no rack. Com base na figura 3, podemos observar o patch panel 2U de 48 portas na parte superior do rack, o qual interligará com patch cords no switch. Mais abaixo no rack serão instalados os equipamentos de link de internet e vlan de fibra óptica. 
 
-Todos os elementos das figuras devem ser explicados. 
-Crie esboço da configuração dos racks e brackets. Explique cada um dos componentes. Você pode criar uma tabela contendo figuras dentro, ou criar uma tabela e incluí-la como imagem. Por exemplo, verifique a tabela \ref{tab1}.
-
-\input{tab1}
 
 \subsection{Encaminhamento}
-Eletrodutos, calhas, e qualquer material em que os cabos serão alojados/alocados.
+Os cabos serão lançados por meio dos eletrodutos corrugados já instalados nas paredes que levam diretamente a ER (Equipament Room). Os eletrodutos são da marca Tigre e cor amarela e são do tamanho de 3/4". Para maioria dos pontos será lançado apenas 1 cabo, sendo que os pontos que precisam de impressoras ao lado dos computadores comportarão 2 cabos. Os cabos serão lançados por meio de guia para facilitar o lançamento. 
 
 \subsection{Memorial descritivo}
-
-Relacione todos os equipamentos passivos que serão utilizados, tipo, fabricante, quantidade.
+Para toda esta instalação de cabeamento estruturado foi realizado um processo licitatório do tipo Pregão Presencial realizado pela Prefeitura Municipal. Segue abaixo quantidade e descrição dos itens:
+\begin{itemize}
+\item 01	Switch Gigabit 1U 48+4 portas SFP HP Aruba 1920S;
+\item 01	Patch Panel 2U 48 portas Fugukawa Gigalan Cat6;
+\item 50	Patch Cords 1,5m Fugukawa Gigalan Cat6 cor amarela;
+\item 20	Patch Cords 3m Fugukawa Gigalan Cat6 cor azul;
+\item 20	Patch Cords 5m Fugukawa Gigalan Cat6 cor vermelha;
+\item 50	Conectores RJ45 fêmea Fugukawa Gigalan Cat6;
+\item 30 	Espelhos 1 posição Fugukawa;
+\item 10 	Espelhos 2 posição Fugukawa;
+\item 02	Caixas (305m cada) de cabo de rede UTP Fugukawa Gigalan Cat6 cor vermelha;
+\item 01 	Rack fechado de piso 42U IPMETAL (800mm) já com 2 bandejas; guias verticais; 2 guias horizontais e uma régua com 12 tomadas 10A;
+\item 01	Nobreak de Rack 2U 1200VA NHS Compact Plus. 
+\end{itemize}
 
 \subsection{Identificação dos cabos}
-Explique como os cabos serão identificados em seu projeto. Coloque uma relação dos cabos instalados e identificados.
+O cabeamento estruturado será identificado de forma bem simples, para os pontos das áreas de trabalho serão etiquetados com nomenclatura PT01; PT02 por diante. Estes mesmo serão identificados no Patch Panel desta mesma forma. Já a identificação dos Patch cords entre o Patch Panel e o Switch terão a nomenclatura SW01; SW02 em diante. O patch cord que conectará o link de internet ao Switch terá a nomenclatura de LNK1. 
 
 \section{Implantação}
 O cronograma de implantação será, respectivamente, a montagem do rack, instalação dos cabos e identificação dos cabos.
-Todos os equipamentos são padrão Gigabit e da marca Furukawa, no caso dos cabos o padrão é o cat6.
-Estabeleça um cronograma de implantação:
-Remoção de equipamentos existentes (destino para descarte), instalação dos condutores, instalação dos cabos, 
-identificação dos cabos, montagem dos racks, certificação, etc... Crie atividades e estabeleça o tempo de execução. Se for um projeto real, indique também quais os responsáveis pela execução do projeto e de cada uma das etapas.
-
-Defina marcas (e padrões) e fornecedores se for o caso. Atenção a contratados e subcontratados para a realização das atividades. Estabeleça a responsabilidade de execução da atividade e também da validação dela.
-
-Utilize algum software para gerear o cronograma. Excel,etc. O fundamental é dividir em etapas, descrever e estimar o tempo de cada uma delas.
-
-Segue uma relação de ferramentas:
-http://asana.com/, 
-https://trello.com/, 
-http://www.ganttproject.biz/, 
-http://www.orangescrum.org/. 
+Todo o cabeamento; conectores; wallplates; patch cords e patech panel serão da marca Furukawa Gigalan padrão cat6. O rack e demais acessórios do rack (guias verticais; bandejas fixas; guias de cabo; régua de tomadas) serão da marca IpMetal e o Switch será um HPE Aruba 1920S 48 + 4SFP. Os colaboradores responsáveis pela instalação e montagem optaram pela instalação do padrão EIA/TIA 568A para o cabeamento e terão um cronograma de 3 dias para realizar todo o trabalho. Estes dias serão definidos entre a equipe e o Secretário de Saúde.
 
 \section{Plano de certificação}
-O projeto não contará com plano de certificação pois como se trata de um órgão público, o orçamento não prevê esse tipo de situação e também a falta de conhecimento do assunto por parte dos superiores se torna um empecilho. 
+O projeto não contará com plano de certificação pois como se trata de um órgão público, o orçamento não prevê esse tipo de situação e também a falta de conhecimento do assunto por parte dos superiores se torna um empecilho. Talvez no futuro tendo uma real necessidade de certificar a rede, a Prefeitura poderá realizar uma licitação para que uma empresa terceirizada realize a certificação ou até mesmo licite os equipamentos de certificação para que os próprios colaboradores do Departamento de Tecnologias e Sistemas de Informação realizem a certificação da rede não somente neste prédio, como também em todas as demais redes existentes na Prefeitura. 
 
 \section{Plano de manutenção}
 As revisões na rede acontecerão com visitas periódicas ao local e com o frequente monitoramento via softwares no datacenter principal.
 
 \subsection{Plano de expansão}
-Existe hoje um plano de expansão, mas é impossível mensurar com precisão quantos pontos de rede a mais precisarão ser instalados, deverá ter no máximo um acréscimo de 15 pontos. Caso concretizado esse número, deverá ser licitados novos equipamentos como cabos e switch para suprir a necessidade.
+Existe hoje um plano de expansão, foram instalados 15 pontos a mais e estratégicos de rede, deste modo, a rede já está pronta para expandir para um número máximo de 41 pontos de rede, pois serão utilizados até 7 pontos de rede para interconectar outros dispositivos na sala do rack. Fechando assim 48 conexões máximas possíveis no switch que será instalado. Caso no futuro haja a necessidade de mais pontos de rede, será necessário comprar cabo; conectores; switch e demais equimantos para devida expansão.
 
-\section{Risco}
-Enumerar e explicar os riscos do projeto.
+%%\section{Risco}
+%%Enumerar e explicar os riscos do projeto.
 
-\section{Orçamento}
-Crie uma relação de orçamentos baseado na seções anteriores.
+%%\section{Orçamento}
+%%Crie uma relação de orçamentos baseado na seções anteriores.
 
-\section{Recomendações}
-Observações e recomendações para o cliente.
+%%\section{Recomendações}
+%%Observações e recomendações para o cliente.
 
 \section{Referências bibliográficas}
-Utilize o mendley, o jabref ou diretamente o bibtex para gerenciar suas referências biliográficas. As referências são criadas automaticamente de acordo com o uso no texto.
-
-Exemplo: Redes de computadores, segundo \cite{t2013} é considerada..... Já \cite{kurose2010} apresenta uma versão...
-
-Analisando os pressupostos de \cite{ref3} e \cite{ref4} concluimos que....
-
-
+%%Utilize o mendley, o jabref ou diretamente o bibtex para gerenciar suas referências biliográficas. %%As referências são criadas automaticamente de acordo com o uso no texto.
+%%Exemplo: Redes de computadores, segundo \cite{t2013} é considerada..... Já \cite{kurose2010} %%apresenta uma versão...
+%%Analisando os pressupostos de \cite{ref3} e \cite{ref4} concluimos que....
 \renewcommand\refname{} %%Referências bibliográficas}  
 \bibliographystyle{ieeetr}
 \bibliography{referencias}  
 
-%% ***********************************************************************
-%% === remover daqui =====================================================
-%% ***********************************************************************
-=================================================
-\section{Elementos textuais - Alguns exemplos}
-
-Esta seção apresenta exemplos de elementos textuais. \textbf{Remova-a da versão final do texto}.
-
-
-\subsection{Colocar elementos em itens}
-
-Texto antes da lista
-
-\begin{itemize}
-	\item First item in a list 
-	\item Second item in a list 
-	\item Third item in a list
-\end{itemize}
-
-\subsubsection{Uma subseção de terceiro nivel}
-
-Exemplo de uma subseção
-
-\subsection{Tabelas}
-
-Utilize o site http://www.tablesgenerator.com/ para elaborar as tabelas de seu trabalho.
-Para adicionar uma tabela utilize: a tag input, passando o arquivo da tabela como parametro
-
-\input{tab2}
-
-Dentro do arquivo você deve definir o label e pode utilizá-lo para referenciar. Exemplo:
-Na tab \ref{tab2} temos a relação de ....
-
-
-Você também pode modificar a tabela manualmente, incluindo, por exemplo h! dentro de sua definição. Veja no exemplo tab2.tex
-
-\subsection{Figuras}
-
-As figuras podem ser no formato PDF, JPG, PNG. Você pode referenciá-las da mesma maneira que tabelas. Exemplo: A figura \ref{fig1} apresenta.....
-
-Não se preocupe o local em que a figura será renderizada em seu texto. Preocupe-se em criar referência para ela, ou seja, toda figura e tabela deve conter pelo menos uma referência no texto.
-
-\begin{figure}
-\centering
-\includegraphics[width=\textwidth]{fig1}
-\caption{Exemplo de figura com escala horizontal}
-\label{fig1}
-\end{figure}
-
-
-\begin{figure}
-	\centering
-	\includegraphics[]{fig2}
-	\caption{Exemplo de figura sem escala}
-	\label{fig2}
-\end{figure}
-
-Você pode rotacionar figuras também. Para isso utilize o parâmetro angle=-90. Repare que a escala da figura foi modificada pelo parametro height. Você também pode utilizar scale
-
-\begin{figure}
-	\centering
-	\includegraphics[height=\textwidth,angle=-90]{fig3}
-	\caption{Exemplo de figura rotacionada}
-	\label{fig3}
-\end{figure}
-
-
-%% ***********************************************************************
-%% === ate aqui    =====  ================================================
 %% ***********************************************************************
 
 \end{document}
